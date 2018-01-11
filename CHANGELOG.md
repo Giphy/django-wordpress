@@ -1,5 +1,9 @@
 # Changelog for django-wordpress
 
+## 0.11.0
+
+* Django 1.9 support
+
 ## 0.10.1
 
 * fix issue where attachment view refered to old parent model field
